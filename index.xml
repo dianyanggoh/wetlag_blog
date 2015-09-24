@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glitchwall.com</title>
+    <link>http://glitchwall.github.io/glitchwall_blog/</link>
+    <description>Recent content on glitchwall.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Sep 2015 21:42:36 +0800</lastBuildDate>
+    <atom:link href="http://glitchwall.github.io/glitchwall_blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://glitchwall.github.io/glitchwall_blog/about/</link>
+      <pubDate>Sat, 19 Sep 2015 21:42:36 +0800</pubDate>
+      
+      <guid>http://glitchwall.github.io/glitchwall_blog/about/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;notes on games&lt;/li&gt;
+&lt;li&gt;ideas about game design&lt;/li&gt;
+&lt;li&gt;notes from watching talks&lt;/li&gt;
+&lt;li&gt;observation&lt;/li&gt;
+&lt;li&gt;break down my favorite games&lt;/li&gt;
+&lt;li&gt;clarify my understanding or position on issues for which i’m undecided.
+Notes on game design and life.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’d like a space where I come to think. I think it’d be good for me. A place to drop a pin on thoughts to be expanded later.&lt;/p&gt;
+
+&lt;p&gt;Would love to get some discussion.&lt;/p&gt;
+
+&lt;p&gt;Glitchwall - exploring possibilities
+Glitchwall - tinkering with possibilities
+Glitchwall - probing boundaries
+Glitchwall - questioning artificial constraints
+Glitchwall - when a barrier isn’t. A barrier that isn’t. A window.
+Portal mirror quantum tunneling.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
