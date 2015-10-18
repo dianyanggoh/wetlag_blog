@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game_notes on glitchwall.com</title>
+    <link>http://glitchwall.github.io/glitchwall_blog/tags/game_notes/</link>
+    <description>Recent content in Game_notes on glitchwall.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 25 Sep 2015 16:43:06 +0800</lastBuildDate>
+    <atom:link href="http://glitchwall.github.io/glitchwall_blog/tags/game_notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Beacon and Clairvoyant Bullets</title>
+      <link>http://glitchwall.github.io/glitchwall_blog/post/beacon/</link>
+      <pubDate>Fri, 25 Sep 2015 16:43:06 +0800</pubDate>
+      
+      <guid>http://glitchwall.github.io/glitchwall_blog/post/beacon/</guid>
+      <description>&lt;p&gt;I was searching around for this Ludum Dare &lt;a href=&#34;http://www.necessarygames.com/reviews/beacon-game-free-download-independent-windows-atmospheric-fantasy-singleplayer-casual-gamers&#34;&gt;&amp;ldquo;Beacon&amp;rdquo;&lt;/a&gt; game to play, but unfortunately it doesn&amp;rsquo;t seem to be available online anymore. I then somehow ended up playing this &lt;em&gt;other&lt;/em&gt; Ludum Dare &lt;a href=&#34;http://wootfu.com/beacon/&#34;&gt;&amp;ldquo;Beacon&amp;rdquo;&lt;/a&gt; game instead, and this is the one I&amp;rsquo;m writing about here.&lt;/p&gt;
+
+&lt;p&gt;Around halfway through the game, you&amp;rsquo;re introduced to these turrets which shoot bullets at you. Except, they&amp;rsquo;re not shooting directly &lt;em&gt;at&lt;/em&gt; you, but rather where they &lt;em&gt;predict&lt;/em&gt; you&amp;rsquo;ll end up. To avoid getting hit, you would have to change your behavior after a bullet had been fired. (e.g. Move or jump if you&amp;rsquo;d been standing still, change direction or stop or jump if you&amp;rsquo;d been moving, etc)&lt;/p&gt;
+
+&lt;p&gt;To be clear, they&amp;rsquo;re not homing bullets. Merely clairvoyant.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a mechanic that&amp;rsquo;s easy enough to understand, but its consequences are a little more nuanced. There&amp;rsquo;s this subtle moment after &amp;ldquo;dodging a bullet&amp;rdquo; and watching it sail past when you acknowledge that hmmmm, yes, that would have hit me. It reminds me of the &lt;a href=&#34;https://www.youtube.com/watch?v=kKl8CM1Cft4&#34;&gt;Oracle Billiards&lt;/a&gt; prototype that Jonathan Blow made.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;d like to try something by stringing together a few of these turrents, all of which would be firing in quick succession. As a player you would then have to constantly override your own decisions. I suspect that would feel rather frustrating, but at the same time I think it&amp;rsquo;d be this weird, interesting sort of frustration..?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
