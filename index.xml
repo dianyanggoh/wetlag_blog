@@ -5,8 +5,27 @@
     <link>http://glitchwall.github.io/glitchwall_blog/</link>
     <description>Recent content on glitchwall.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Nov 2015 07:47:51 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2015 20:37:48 +0800</lastBuildDate>
     <atom:link href="http://glitchwall.github.io/glitchwall_blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feedback for Swipe Input</title>
+      <link>http://glitchwall.github.io/glitchwall_blog/post/feedback-for-swipe-input/</link>
+      <pubDate>Mon, 23 Nov 2015 20:37:48 +0800</pubDate>
+      
+      <guid>http://glitchwall.github.io/glitchwall_blog/post/feedback-for-swipe-input/</guid>
+      <description>&lt;p&gt;I tried this game Heatos on my phone the other day, which involved swiping tiles around on a grid.&lt;/p&gt;
+
+&lt;p&gt;The tiles only moved  &lt;em&gt;after&lt;/em&gt; you’ve completed a swipe.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Threes&lt;/em&gt; handles swipe input really well. The moment you start a swipe, the tiles move a little. You can slide your thumb or finger back and forth until you’ve decided to commit to a move, and the tiles will move in corresponding fashion.
+Beyond providing feedback, it doubles as a preview of your intended action.&lt;/p&gt;
+
+&lt;p&gt;Even when tiles can’t be moved, there’s a subtle stretch and squash effect to indicate so.&lt;/p&gt;
+
+&lt;p&gt;The point is, there’s feedback throughout the entire duration of a swipe, not just at the end.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Lara Croft GO</title>
