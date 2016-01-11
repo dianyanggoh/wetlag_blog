@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feedback on glitchwall.com</title>
-    <link>http://glitchwall.github.io/glitchwall_blog/tags/feedback/</link>
+    <link>http://glitchwall.com/tags/feedback/</link>
     <description>Recent content in Feedback on glitchwall.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 23 Nov 2015 20:37:48 +0800</lastBuildDate>
-    <atom:link href="http://glitchwall.github.io/glitchwall_blog/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://glitchwall.com/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Feedback for Swipe Input</title>
-      <link>http://glitchwall.github.io/glitchwall_blog/post/feedback-for-swipe-input/</link>
+      <link>http://glitchwall.com/post/feedback-for-swipe-input/</link>
       <pubDate>Mon, 23 Nov 2015 20:37:48 +0800</pubDate>
       
-      <guid>http://glitchwall.github.io/glitchwall_blog/post/feedback-for-swipe-input/</guid>
+      <guid>http://glitchwall.com/post/feedback-for-swipe-input/</guid>
       <description>&lt;p&gt;I tried this game Heatos on my phone the other day, which involved swiping tiles around on a grid.&lt;/p&gt;
 
 &lt;p&gt;The tiles only moved  &lt;em&gt;after&lt;/em&gt; you’ve completed a swipe.&lt;/p&gt;
