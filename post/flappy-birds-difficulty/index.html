@@ -6,7 +6,7 @@
   
   <meta charset="UTF-8">
   <title>
-    Feedback for Swipe Input | glitchwall.com
+    Flappy Bird&#39;s Difficulty | glitchwall.com
   </title>
 
 
@@ -14,7 +14,7 @@
   <meta name="viewport" content="width=device-width,user-scalable=no,maximum-scale=1,initial-scale=1">
 
   
-  <link rel="canonical" href="http://glitchwall.com/post/feedback-for-swipe-input/"/>
+  <link rel="canonical" href="http://glitchwall.com/post/flappy-birds-difficulty/"/>
 
   
   <link rel="stylesheet" href="http://glitchwall.com/css/sanitize.css">
@@ -62,27 +62,30 @@
   
   <main id="single" role="main">
     <div class="article-header">
-      <h1>Feedback for Swipe Input</h1>
+      <h1>Flappy Bird&#39;s Difficulty</h1>
       <div class="meta">
-        Nov 23, 2015 &nbsp;
+        Jan 16, 2016 &nbsp;
         
-          #<a href="http://glitchwall.com/tags/controls">controls</a>&nbsp;
+          #<a href="http://glitchwall.com/tags/difficulty">difficulty</a>&nbsp;
         
-          #<a href="http://glitchwall.com/tags/feedback">feedback</a>&nbsp;
+          #<a href="http://glitchwall.com/tags/one-button">one-button</a>&nbsp;
         
       </div>
     </div>
     <article>
-      <p>I tried this game Heatos on my phone the other day, which involved swiping tiles around on a grid.</p>
+      <p>We tend to attribute the infuriatingly addictive nature of Flappy Bird to its maddening difficulty, but I think what really kept us playing was our constant indignation at how easy it <em>should</em> have been.</p>
 
-<p>The tiles only moved  <em>after</em> you’ve completed a swipe.</p>
+<p>It&rsquo;s sometimes easy to miss the difference when designing a game with a similar &ldquo;frustration aesthetic&rdquo;. Such a game should be way harder than it looks, and yet still feel fair. (Maybe that&rsquo;s why Swing Copters never took off. That game <em>looked</em> hard.)</p>
 
-<p><em>Threes</em> handles swipe input really well. The moment you start a swipe, the tiles move a little. You can slide your thumb or finger back and forth until you’ve decided to commit to a move, and the tiles will move in corresponding fashion.
-Beyond providing feedback, it doubles as a preview of your intended action.</p>
+<p>The difficulty ramp in Flappy Bird was a curious thing. Assuming that the probability of hitting a pipe was 10%, the probability of getting past the 5th gap would be 1 - (1 - 10%)^5.</p>
 
-<p>Even when tiles can’t be moved, there’s a subtle stretch and squash effect to indicate so.</p>
+<p>That&rsquo;s approximately 40%, which is <strong>less</strong> than 10% * 5 = 50%.</p>
 
-<p>The point is, there’s feedback throughout the entire duration of a swipe, not just at the end.</p>
+<p>If we associate probability with difficulty, this means getting past the fifth pipe isn&rsquo;t five times as hard as passing the first; it&rsquo;s <em>more</em>. The hundredth pipe feels so much more intense than the first because there is <strong>disproportionately</strong> so much more to lose. (Related: Michael Brough’s <a href="http://mightyvision.blogspot.co.uk/2013/06/non-linear-costs.html">post</a> on non-linear costs.)</p>
+
+<p>Of course, we subconsciously recognise this without having to think through the math. Even as I write this I realize it’s kind of obvious, but I guess that’s part of why I keep this design notebook &ndash; to formalize and understand at a deeper level why some of these things are “obvious”.</p>
+
+<p>Man, I miss that game.</p>
 
     </article>
     
@@ -105,10 +108,8 @@ Beyond providing feedback, it doubles as a preview of your intended action.</p>
   
   <nav class="pagination">
     
-      <span class="previous">&larr; <a href="http://glitchwall.com/post/lara-croft-go/" rel="prev">Lara Croft GO</a></span>
+      <span class="previous">&larr; <a href="http://glitchwall.com/post/feedback-for-swipe-input/" rel="prev">Feedback for Swipe Input</a></span>
     
-    
-      <span class="next"><a href="http://glitchwall.com/post/flappy-birds-difficulty/" rel="next">Flappy Bird&#39;s Difficulty</a> &rarr;</span>
     
   </nav>
 
