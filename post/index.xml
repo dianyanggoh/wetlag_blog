@@ -5,8 +5,44 @@
     <link>http://glitchwall.com/post/</link>
     <description>Recent content in Posts on glitchwall.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 Feb 2016 21:38:43 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 02 Apr 2016 07:48:33 +0800</lastBuildDate>
     <atom:link href="http://glitchwall.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1-to-1 Correspondence in Game Controls</title>
+      <link>http://glitchwall.com/post/1-to-1-correspondence/</link>
+      <pubDate>Sat, 02 Apr 2016 07:48:33 +0800</pubDate>
+      
+      <guid>http://glitchwall.com/post/1-to-1-correspondence/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Video:&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=vhikkpsqJTs&#34;&gt;Super Pole Riders - How We Got Full Pole Control&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s Bennett Foddy talking at GDC about having a 1-to-1 correspondence between the controller and the in-game feedback.&lt;/p&gt;
+
+&lt;p&gt;Game feel is often discussed in subjective and almost &amp;ldquo;handwavey&amp;rdquo; terms(e.g. &lt;em&gt;&amp;ldquo;It feels good.&amp;rdquo;&lt;/em&gt;), so it’s really helpful to have someone examine it from a very specific and precise perspective.&lt;/p&gt;
+
+&lt;p&gt;In particular, having players self-enforcing the 1-to-1 correspondence and that weird elbow trick were really clever.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read also:&lt;/strong&gt; This &lt;a href=&#34;http://kotaku.com/5558166/in-praise-of-sticky-friction&#34;&gt;crazy long deconstruction&lt;/a&gt; of game feel by Tim Rogers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unpacking</title>
+      <link>http://glitchwall.com/post/unpacking/</link>
+      <pubDate>Sat, 02 Apr 2016 07:40:58 +0800</pubDate>
+      
+      <guid>http://glitchwall.com/post/unpacking/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Video:&lt;/strong&gt; &lt;a href=&#34;http://gdcvault.com/play/1021972/Failure&#34;&gt;Failure Workshop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In this talk, Adam Saltsman talks about unpacking as the ability for a player to understand what were the events that led up to his failure. He mentions that some games unpack naturally, while for others you just can’t seem to engineer this property.&lt;/p&gt;
+
+&lt;p&gt;Is a game that’s hard to unpack necessarily a worse game?&lt;/p&gt;
+
+&lt;p&gt;When I think about a game like Threes or Drop7, it can be hard to pinpoint exactly which was the move that contributed to my eventual demise. To me that hints at a level of non-apparent depth waiting to be uncovered, and it makes me inclined to invest more time in a game.&lt;/p&gt;
+
+&lt;p&gt;As with a lot of things, maybe it&amp;rsquo;s helpful to think of &amp;ldquo;unpackability&amp;rdquo; as a scale along a slider rather than a binary thing.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Drivey Car</title>
