@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emotion on glitchwall.com</title>
-    <link>http://glitchwall.com/tags/emotion/</link>
+    <link>http://wetlag.github.io/wetlag_blog/tags/emotion/</link>
     <description>Recent content in Emotion on glitchwall.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 26 Feb 2016 21:38:43 +0800</lastBuildDate>
-    <atom:link href="http://glitchwall.com/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wetlag.github.io/wetlag_blog/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Drivey Car</title>
-      <link>http://glitchwall.com/post/drivey-car/</link>
+      <link>http://wetlag.github.io/wetlag_blog/post/drivey-car/</link>
       <pubDate>Fri, 26 Feb 2016 21:38:43 +0800</pubDate>
       
-      <guid>http://glitchwall.com/post/drivey-car/</guid>
+      <guid>http://wetlag.github.io/wetlag_blog/post/drivey-car/</guid>
       <description>&lt;p&gt;I quite enjoyed this one-button, driving &lt;a href=&#34;https://itunes.apple.com/us/app/drivey-car/id1062091463?mt=8&#34;&gt;game&lt;/a&gt; in which you could &lt;strong&gt;only&lt;/strong&gt; steer left.&lt;/p&gt;
 
-&lt;p&gt;The gameplay consists of driving round the same simple track until you crashed. Personally, it captured that &lt;a href=&#34;http://glitchwall.com/post/flappy-birds-difficulty&#34;&gt;&amp;ldquo;frustration aesthetic&amp;rdquo;&lt;/a&gt; of Flappy Bird in a way that Crossy Road never did.&lt;/p&gt;
+&lt;p&gt;The gameplay consists of driving round the same simple track until you crashed. Personally, it captured that &lt;a href=&#34;http://wetlag.github.io/wetlag_blog/post/flappy-birds-difficulty&#34;&gt;&amp;ldquo;frustration aesthetic&amp;rdquo;&lt;/a&gt; of Flappy Bird in a way that Crossy Road never did.&lt;/p&gt;
 
 &lt;p&gt;Yellow coins, the in-game currency, spawn as you go around the track. There are also red coins, which make you go faster and leave flaming tracks.&lt;/p&gt;
 
@@ -58,10 +58,10 @@
     
     <item>
       <title>Flappy Bird&#39;s Difficulty</title>
-      <link>http://glitchwall.com/post/flappy-birds-difficulty/</link>
+      <link>http://wetlag.github.io/wetlag_blog/post/flappy-birds-difficulty/</link>
       <pubDate>Sat, 16 Jan 2016 07:00:14 +0800</pubDate>
       
-      <guid>http://glitchwall.com/post/flappy-birds-difficulty/</guid>
+      <guid>http://wetlag.github.io/wetlag_blog/post/flappy-birds-difficulty/</guid>
       <description>&lt;p&gt;We tend to attribute the infuriatingly addictive nature of Flappy Bird to its maddening difficulty, but I think what really kept us playing was our constant indignation at how easy it &lt;em&gt;should&lt;/em&gt; have been.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s sometimes easy to miss the difference when designing a game with a similar &amp;ldquo;frustration aesthetic&amp;rdquo;. Such a game should be way harder than it looks, and yet still feel fair. (Maybe that&amp;rsquo;s why Swing Copters never took off. That game &lt;em&gt;looked&lt;/em&gt; hard.)&lt;/p&gt;

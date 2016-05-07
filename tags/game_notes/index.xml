@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game_notes on glitchwall.com</title>
-    <link>http://glitchwall.com/tags/game_notes/</link>
+    <link>http://wetlag.github.io/wetlag_blog/tags/game_notes/</link>
     <description>Recent content in Game_notes on glitchwall.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 21 Nov 2015 07:47:51 +0800</lastBuildDate>
-    <atom:link href="http://glitchwall.com/tags/game_notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wetlag.github.io/wetlag_blog/tags/game_notes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lara Croft GO</title>
-      <link>http://glitchwall.com/post/lara-croft-go/</link>
+      <link>http://wetlag.github.io/wetlag_blog/post/lara-croft-go/</link>
       <pubDate>Sat, 21 Nov 2015 07:47:51 +0800</pubDate>
       
-      <guid>http://glitchwall.com/post/lara-croft-go/</guid>
+      <guid>http://wetlag.github.io/wetlag_blog/post/lara-croft-go/</guid>
       <description>&lt;p&gt;I have a fondness for the Tomb Raider series.&lt;/p&gt;
 
 &lt;p&gt;When I was a kid, I played the first four games in the franchise as my dad sat beside me and gave suggestions when I inevitably got stuck. We bought guidebooks and somehow still managed to get lost sometimes. The first guidebooks were black and white, and the screenshots weren’t very clear. I remember how excited I was when they were finally printed in colour.&lt;/p&gt;
@@ -31,7 +31,7 @@
 
 &lt;p&gt;The controls for this game surprised me; I had expected the character to move to where I tapped, like in Monument Valley. Diagonal swipes felt a little unnatural at first, but were easy enough to get used to. This may be the first time I&amp;rsquo;ve seen a swipe-based control scheme in an isometric game.&lt;/p&gt;
 
-&lt;p&gt;I think something like the tracing controls in &lt;a href=&#34;http://glitchwall.com/post/a-good-snowman&#34;&gt;A Good Snowman Is Hard To Build&lt;/a&gt; would have worked well in this game. With turn-based games like this, it usually takes a few moves just to perform that one action you have in mind. In your head you&amp;rsquo;re thinking &amp;ldquo;I want to push that pillar there.&amp;rdquo;, but it translates into &lt;em&gt;swipe&lt;/em&gt;, &lt;em&gt;swipe&lt;/em&gt;, &lt;em&gt;swipe&lt;/em&gt; to move to the pillar, and then &lt;em&gt;swipe&lt;/em&gt;, &lt;em&gt;swipe&lt;/em&gt;, &lt;em&gt;swipe&lt;/em&gt; again to move it to your destination. It&amp;rsquo;s a very subtle thing, but I think the inefficient mapping from thought to execution makes the experience less smooth.&lt;/p&gt;
+&lt;p&gt;I think something like the tracing controls in &lt;a href=&#34;http://wetlag.github.io/wetlag_blog/post/a-good-snowman&#34;&gt;A Good Snowman Is Hard To Build&lt;/a&gt; would have worked well in this game. With turn-based games like this, it usually takes a few moves just to perform that one action you have in mind. In your head you&amp;rsquo;re thinking &amp;ldquo;I want to push that pillar there.&amp;rdquo;, but it translates into &lt;em&gt;swipe&lt;/em&gt;, &lt;em&gt;swipe&lt;/em&gt;, &lt;em&gt;swipe&lt;/em&gt; to move to the pillar, and then &lt;em&gt;swipe&lt;/em&gt;, &lt;em&gt;swipe&lt;/em&gt;, &lt;em&gt;swipe&lt;/em&gt; again to move it to your destination. It&amp;rsquo;s a very subtle thing, but I think the inefficient mapping from thought to execution makes the experience less smooth.&lt;/p&gt;
 
 &lt;p&gt;I surprised myself a little by enjoying this game, even if it wasn&amp;rsquo;t very challenging and many a time I was replaying levels and pixel-hunting for the secret vases in the game. (&lt;strong&gt;Aside:&lt;/strong&gt; It amazes me how strange and nebulous and even hollow I still find the concept of fun &amp;ndash; this subjective, swirling, conglomerate mess of even &lt;em&gt;more&lt;/em&gt; abstract concepts like entertainment, enjoyment, engagement, amusement, challenge, meaning, etc.)&lt;/p&gt;
 
@@ -41,10 +41,10 @@
     
     <item>
       <title>A Good Snowman Is Hard To Build</title>
-      <link>http://glitchwall.com/post/a-good-snowman/</link>
+      <link>http://wetlag.github.io/wetlag_blog/post/a-good-snowman/</link>
       <pubDate>Mon, 02 Nov 2015 21:51:19 +0800</pubDate>
       
-      <guid>http://glitchwall.com/post/a-good-snowman/</guid>
+      <guid>http://wetlag.github.io/wetlag_blog/post/a-good-snowman/</guid>
       <description>&lt;p&gt;I love &lt;a href=&#34;http://agoodsnowman.com/&#34;&gt;this game&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;There is an economic efficiency to the game&amp;rsquo;s design; no element is wasted. For example, there are no &amp;ldquo;screens&amp;rdquo;. Settings options appear as thought bubbles over the character&amp;rsquo;s head, and the map &lt;em&gt;is&lt;/em&gt; the puzzle. The benches which the character can sit on, along with other interactable environmental objects, initially seemed to be nothing more than neat touches with no gameplay impact, but were later revealed to be secret gateways. Even the humble reset button turned out to be a really important mechanic.&lt;/p&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>Beacon and Clairvoyant Bullets</title>
-      <link>http://glitchwall.com/post/beacon/</link>
+      <link>http://wetlag.github.io/wetlag_blog/post/beacon/</link>
       <pubDate>Fri, 25 Sep 2015 16:43:06 +0800</pubDate>
       
-      <guid>http://glitchwall.com/post/beacon/</guid>
+      <guid>http://wetlag.github.io/wetlag_blog/post/beacon/</guid>
       <description>&lt;p&gt;I was searching around for this Ludum Dare &lt;a href=&#34;http://www.necessarygames.com/reviews/beacon-game-free-download-independent-windows-atmospheric-fantasy-singleplayer-casual-gamers&#34;&gt;&amp;ldquo;Beacon&amp;rdquo;&lt;/a&gt; game to play, but unfortunately it doesn&amp;rsquo;t seem to be available online anymore. I then somehow ended up playing this &lt;em&gt;other&lt;/em&gt; Ludum Dare &lt;a href=&#34;http://wootfu.com/beacon/&#34;&gt;&amp;ldquo;Beacon&amp;rdquo;&lt;/a&gt; game instead, and this is the one I&amp;rsquo;m writing about here.&lt;/p&gt;
 
 &lt;p&gt;Around halfway through the game, you&amp;rsquo;re introduced to these turrets which shoot bullets at you. Except, they&amp;rsquo;re not shooting directly &lt;em&gt;at&lt;/em&gt; you, but rather where they &lt;em&gt;predict&lt;/em&gt; you&amp;rsquo;ll end up. To avoid getting hit, you would have to change your behavior after a bullet had been fired. (e.g. Move or jump if you&amp;rsquo;d been standing still, change direction or stop or jump if you&amp;rsquo;d been moving, etc)&lt;/p&gt;
