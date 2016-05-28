@@ -5,8 +5,34 @@
     <link>http://wetlag.com/</link>
     <description>Recent content on wetlag.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Apr 2016 07:48:33 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2016 22:18:43 +0800</lastBuildDate>
     <atom:link href="http://wetlag.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>a Tale of Two Rules</title>
+      <link>http://wetlag.com/post/a-tale-of-two-rules/</link>
+      <pubDate>Sat, 28 May 2016 22:18:43 +0800</pubDate>
+      
+      <guid>http://wetlag.com/post/a-tale-of-two-rules/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been reading &amp;ldquo;Kobold Guide To Board Game Design&amp;rdquo;, which contains a collection of game design articles. In &amp;ldquo;Design Intuitively&amp;rdquo;, Rob Daviau talks about this rule in the game &lt;em&gt;Tigris &amp;amp; Euphrates&lt;/em&gt;, in which you earn four different colored cubes throughout the game.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Your final score is your number of cubes in the color you have the least of.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Contrast this with:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Your final score equals the number of complete color sets you have.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;They are exactly the same rule!&lt;/p&gt;
+
+&lt;p&gt;But the phrasing not only makes latter much easier to understand, but I think it affects how players think about the game.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s like a weird magic trick.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>1-to-1 Correspondence in Game Controls</title>

@@ -5,8 +5,26 @@
     <link>http://wetlag.com/tags/feedback/</link>
     <description>Recent content in Feedback on wetlag.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 Nov 2015 20:37:48 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 02 Apr 2016 07:48:33 +0800</lastBuildDate>
     <atom:link href="http://wetlag.com/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1-to-1 Correspondence in Game Controls</title>
+      <link>http://wetlag.com/post/1-to-1-correspondence/</link>
+      <pubDate>Sat, 02 Apr 2016 07:48:33 +0800</pubDate>
+      
+      <guid>http://wetlag.com/post/1-to-1-correspondence/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Video:&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=vhikkpsqJTs&#34;&gt;Super Pole Riders - How We Got Full Pole Control&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s Bennett Foddy talking at GDC about having a 1-to-1 correspondence between the controller and the in-game feedback.&lt;/p&gt;
+
+&lt;p&gt;Game feel is often discussed in subjective and almost &amp;ldquo;handwavey&amp;rdquo; terms(e.g. &lt;em&gt;&amp;ldquo;It feels good.&amp;rdquo;&lt;/em&gt;), so it’s really helpful to have someone examine it from a very specific and precise perspective.&lt;/p&gt;
+
+&lt;p&gt;In particular, having players self-enforcing the 1-to-1 correspondence and that weird elbow trick were really clever.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read also:&lt;/strong&gt; This &lt;a href=&#34;http://kotaku.com/5558166/in-praise-of-sticky-friction&#34;&gt;crazy long deconstruction&lt;/a&gt; of game feel by Tim Rogers.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feedback for Swipe Input</title>
